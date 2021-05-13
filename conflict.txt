@@ -1,1 +1,2 @@
 new file on local repo for conflict
+new file to slove conflict
